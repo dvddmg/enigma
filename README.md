@@ -1,6 +1,6 @@
 # Enigma
 
-Installazione sonora sviluppata su due stanze separate.
+Installazione sonora sviluppata su due stanze.
 
 Materiali x una stanza:
 - 1 pc con Max 8.6
