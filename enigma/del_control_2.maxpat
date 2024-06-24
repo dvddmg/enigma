@@ -239,8 +239,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 196.0, 311.0, 63.0, 22.0 ],
-					"text" : "+~"
+					"patching_rect" : [ 196.0, 311.0, 29.5, 22.0 ],
+					"text" : "-~"
 				}
 
 			}
@@ -464,7 +464,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "accumulatore.maxpat",
-				"bootpath" : "~/Documents/conservatorio/Elettronica/3_Anno/ambienti_mi/enigma",
+				"bootpath" : "~/Desktop/enigma/enigma",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
